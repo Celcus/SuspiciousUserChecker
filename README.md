@@ -1,12 +1,14 @@
 # SuspiciousUserChecker
-A program to check the Activity Monitor (OSX) for malicious/suspicious users
+A script to check the Activity Monitor for malicious/suspicious users
 
 #Who Should Use This
-Anyone who suspects that malware may be running on their computer
+Anyone who suspects that malware may be running on their computer,
+and wants to know what files the malware may be accessing.
 
 #Requirements
-Made for MacOSX 10.3.9 and later
-Python 2.7 and later
+I don't really know...
 
 #Current Progress
 In development
+Not exactly sure if I'm writing it correctly...
+:/
